@@ -35,7 +35,6 @@ Arduino IDE (if using microcontrollers)
 git clone https://github.com/Harsha-o3/Agri-Sheild.git
 cd Agri-Sheild
 python app.py
-Then open your browser and go to: http://localhost:5000
 
 📸 Screenshots
 

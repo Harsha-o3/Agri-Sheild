@@ -147,7 +147,7 @@ Before you begin, ensure you have the following installed:
 <div align="center">
 
 ### 🖥️ Dashboard Overview
-![Dashboard](images/4.jpg)
+![Dashboard](Flask/static/images/4.jpg)
 
 ### 📊 Monitoring Interface
 ![Monitoring Interface](images/b2.jpg)

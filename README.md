@@ -147,37 +147,16 @@ Before you begin, ensure you have the following installed:
 <div align="center">
 
 ### 🖥️ Dashboard Overview
-![Dashboard](https://github.com/user-attachments/assets/95fe9ed8-7322-4828-b24c-b44d71a7134b)
+![Dashboard](images/4.jpg)
 
-### 📊 Real-time Monitoring
-<table>
-<tr>
-<td width="50%">
-<img src="https://github.com/user-attachments/assets/5c294c18-acbe-4faf-af99-46506f6c625c" alt="Monitoring Interface" width="100%">
-</td>
-<td width="50%">
-<img src="https://github.com/user-attachments/assets/2cf2c377-a775-40aa-bd39-cd8797f1804a" alt="Sensor Data Display" width="100%">
-</td>
-</tr>
-</table>
+### 📊 Monitoring Interface
+![Monitoring Interface](images/b2.jpg)
 
-### 🔔 Alert System & Controls
-<table>
-<tr>
-<td width="33%">
-<img src="https://github.com/user-attachments/assets/451dc639-9f12-48fd-9e7c-e0018d568e9d" alt="Alert System" width="100%">
-</td>
-<td width="33%">
-<img src="https://github.com/user-attachments/assets/677c3b52-3308-4020-8ec2-7acd2e50fa04" alt="Control Panel" width="100%">
-</td>
-<td width="33%">
-<img src="https://github.com/user-attachments/assets/ea876c65-6112-4791-854f-800ae1c9f168" alt="Settings" width="100%">
-</td>
-</tr>
-</table>
+### 🔔 System Controls
+![System Controls](images/b3.jpg)
 
-### 📈 System Interface
-![System Interface](https://github.com/user-attachments/assets/ce161ae5-f78c-49c6-9444-655999dd8837)
+### 📈 Application Interface
+![Application Interface](images/b7.jpg)
 
 </div>
 

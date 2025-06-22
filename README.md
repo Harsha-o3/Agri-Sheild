@@ -59,11 +59,11 @@ Agri-Sheild provides a comprehensive monitoring system that:
 </td>
 <td width="50%">
 
-### 📊 **Advanced Analytics**
-- Historical data visualization
-- Trend analysis & predictions
-- Growth pattern insights
-- Yield optimization reports
+### 📊 **Real-Time Monitoring**
+- Temperature & humidity tracking
+- Soil moisture analysis
+- Light intensity measurement
+- Environmental data logging
 
 ### 🌐 **User-Friendly Interface**
 - Responsive web dashboard
@@ -156,19 +156,19 @@ Before you begin, ensure you have the following installed:
 <img src="https://github.com/user-attachments/assets/5c294c18-acbe-4faf-af99-46506f6c625c" alt="Monitoring Interface" width="100%">
 </td>
 <td width="50%">
-<img src="https://github.com/user-attachments/assets/2cf2c377-a775-40aa-bd39-cd8797f1804a" alt="Data Visualization" width="100%">
+<img src="https://github.com/user-attachments/assets/2cf2c377-a775-40aa-bd39-cd8797f1804a" alt="Sensor Data Display" width="100%">
 </td>
 </tr>
 </table>
 
-### 🔔 Alert System & Analytics
+### 🔔 Alert System & Controls
 <table>
 <tr>
 <td width="33%">
 <img src="https://github.com/user-attachments/assets/451dc639-9f12-48fd-9e7c-e0018d568e9d" alt="Alert System" width="100%">
 </td>
 <td width="33%">
-<img src="https://github.com/user-attachments/assets/677c3b52-3308-4020-8ec2-7acd2e50fa04" alt="Analytics" width="100%">
+<img src="https://github.com/user-attachments/assets/677c3b52-3308-4020-8ec2-7acd2e50fa04" alt="Control Panel" width="100%">
 </td>
 <td width="33%">
 <img src="https://github.com/user-attachments/assets/ea876c65-6112-4791-854f-800ae1c9f168" alt="Settings" width="100%">
@@ -176,8 +176,8 @@ Before you begin, ensure you have the following installed:
 </tr>
 </table>
 
-### 📈 Advanced Features
-![Advanced Features](https://github.com/user-attachments/assets/ce161ae5-f78c-49c6-9444-655999dd8837)
+### 📈 System Interface
+![System Interface](https://github.com/user-attachments/assets/ce161ae5-f78c-49c6-9444-655999dd8837)
 
 </div>
 
@@ -273,19 +273,6 @@ Have an idea? We'd love to hear it! Open an issue with:
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Harsha-o3/Agri-Sheild?style=flat-square)
 
 </div>
-
----
-
-## 🏆 Roadmap
-
-- [x] Basic sensor integration
-- [x] Web dashboard development
-- [x] Real-time data visualization
-- [ ] Mobile application
-- [ ] Machine learning predictions
-- [ ] Weather API integration
-- [ ] Multi-language support
-- [ ] Cloud deployment
 
 ---
 

@@ -150,13 +150,13 @@ Before you begin, ensure you have the following installed:
 ![Dashboard](Flask/static/images/4.jpg)
 
 ### 📊 Monitoring Interface
-![Monitoring Interface](images/b2.jpg)
+![Monitoring Interface](Flask/static/images/b2.jpg)
 
 ### 🔔 System Controls
-![System Controls](images/b3.jpg)
+![System Controls](Flask/static/images/b3.jpg)
 
 ### 📈 Application Interface
-![Application Interface](images/b7.jpg)
+![Application Interface](Flask/static/images/b7.jpg)
 
 </div>
 
